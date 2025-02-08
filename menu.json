@@ -1,12 +1,18 @@
 {
-    "title": "STRUMENTI ONLINE",
-    "items": [
-      { "text": "Tasse Forfettarioo", "icon": "CalculateIcon" },
-      { "text": "Costo Dipendente", "icon": "MonetizationOnIcon" },
-      { "text": "Preventivi Progetti", "icon": "AssignmentIcon" },
-      { "text": "Analisi ROI", "icon": "TrendingUpIcon" },
-      { "text": "Report Finanziari", "icon": "BarChartIcon" },
-      { "text": "Strumenti SEO", "icon": "SearchIcon" }
-    ]
-  }
-  
+  "title": "STRUMENTI ONLINE",
+  "items": [
+    { "text": "Tasse Forfettario", "icon": "CalculateIcon" },
+    { "text": "Costo Dipendente", "icon": "MonetizationOnIcon" },
+    {
+      "text": "Preventivi Progetti",
+      "icon": "AssignmentIcon",
+      "subitems": [
+        { "text": "Sottovoci 1", "icon": "AssignmentIcon" },
+        { "text": "Sottovoci 2", "icon": "AssignmentIcon" }
+      ]
+    },
+    { "text": "Analisi ROI", "icon": "TrendingUpIcon" },
+    { "text": "Report Finanziari", "icon": "BarChartIcon" },
+    { "text": "Strumenti SEO", "icon": "SearchIcon" }
+  ]
+}
