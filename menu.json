@@ -1,18 +1,9 @@
 {
-  "title": "STRUMENTI ONLIN",
+  "title": "STRUMENTI ONLINE",
   "items": [
-    { "text": "Tasse Forfettario", "icon": "CalculateIcon", "link": "www.google.com"},
-    { "text": "Costo Dipendente", "icon": "MonetizationOnIcon", "link": "https://www.google.com/"},
-    {
-      "text": "Preventivi Progetti",
-      "icon": "AssignmentIcon",
-      "subitems": [
-        { "text": "Sottovoci 1", "icon": "AssignmentIcon", "link": "google.com" },
-        { "text": "Sottovoci 2", "icon": "AssignmentIcon", "link": "google.com" }
-      ]
-    },
-    { "text": "Analisi ROI", "icon": "TrendingUpIcon", "link": "google.com" },
-    { "text": "Report Finanziari", "icon": "BarChartIcon", "link": "google.com" },
-    { "text": "Strumenti SEO", "icon": "SearchIcon", "link": "google.com" }
+    { "text": "Tasse Forfettario", "icon": "CalculateIcon", "link": "https://www.forfettariotasse.it/"},
+    { "text": "Costo Dipendente", "icon": "MonetizationOnIcon", "link": "https://www.costoassunzione.it/"},
+    { "text": "Break-even Point", "icon": "TrendingUpIcon", "link": "https://www.calcolopareggio.it/"},
+    { "text": "Tariffe & Preventivi", "icon": "BarChartIcon", "link": "https://www.quantochiedere.it/"},
   ]
 }
