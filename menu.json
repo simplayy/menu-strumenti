@@ -1,8 +1,8 @@
 {
   "title": "STRUMENTI ONLINE",
   "items": [
-    { "text": "Tasse Forfettarioo", "icon": "CalculateIcon", "link": "google.com"},
-    { "text": "Costo Dipendente", "icon": "MonetizationOnIcon", "link": "google.com"},
+    { "text": "Tasse Forfettarioo", "icon": "CalculateIcon", "link": "www.google.com"},
+    { "text": "Costo Dipendente", "icon": "MonetizationOnIcon", "link": "www.google.com"},
     {
       "text": "Preventivi Progetti",
       "icon": "AssignmentIcon",
