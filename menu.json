@@ -1,9 +1,9 @@
 {
   "title": "STRUMENTI UTILI",
   "items": [
-    { "text": "Tasse Forfettario", "icon": "CalculateIcon", "link": "https://www.forfettariotasse.it/" },
-    { "text": "Costo Dipendente", "icon": "MonetizationOnIcon", "link": "https://www.costoassunzione.it/" },
-    { "text": "Break-even Point", "icon": "TrendingUpIcon", "link": "https://www.calcolopareggio.it/" },
-    { "text": "Tariffe & Preventivi", "icon": "BarChartIcon", "link": "https://www.quantochiedere.it/" }
+    { "text": "Tasse Forfettario", "icon": "CalculateIcon", "link": "https://forfettariotasse.it/" },
+    { "text": "Costo Dipendente", "icon": "MonetizationOnIcon", "link": "https://costoassunzione.it/" },
+    { "text": "Break-even Point", "icon": "TrendingUpIcon", "link": "https://calcolopareggio.it/" },
+    { "text": "Tariffe & Preventivi", "icon": "BarChartIcon", "link": "https://quantochiedere.it/" }
   ]
 }
